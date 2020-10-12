@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.example.demo.modal.Student1;
 import com.example.demo.service.Student1Service;
-
+//Authored by Yamini
 @RestController
 public class Student1Controller{
 
